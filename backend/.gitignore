@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+.nest/
+
+# Local env (use .env.example as the template)
+.env
+.env.local
+.env.*.local
+
+*.log
+*.tsbuildinfo

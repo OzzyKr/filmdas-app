@@ -1,0 +1,9 @@
+# Design reference — not the actual frontend
+frontend/CLAUDE
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
